@@ -1,0 +1,30 @@
+* {
+    font-family: 'Joan', serif;
+    margin-left: 5vw;
+}
+h1 {
+    font-size: 4vw;
+}
+h2 {
+    font-size: 3vw;
+}
+p {
+    font-size: 2vw;
+}
+ul{
+    margin-left: 2vw;
+    font-size: 2vw;
+}
+ol{
+    margin-left: 2vw;
+}
+li{
+    margin-left: 1vw;
+    font-size: 2vw;
+}
+body {
+    /*background-image: linear-gradient(#FF3333 ,#FF5316);*/
+}
+img {
+    max-width: 20vw;
+}
